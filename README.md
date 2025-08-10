@@ -1,10 +1,10 @@
 📄 ADGM-Compliant Corporate Agent – Document Intelligence
 
-Overview
+Overview:
 This project is an AI-powered Corporate Agent designed to review, validate, and help prepare documentation for business incorporation and compliance within the Abu Dhabi Global Market (ADGM) jurisdiction.
 The agent uses Retrieval-Augmented Generation (RAG) with official ADGM references to ensure accuracy and compliance.
 
-Key Features
+Key Features:
 Upload & Parse Documents (.docx)
 
 Document Checklist Verification based on ADGM rules
