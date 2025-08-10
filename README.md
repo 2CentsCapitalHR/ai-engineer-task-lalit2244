@@ -18,7 +18,8 @@ Downloadable Reviewed .docx with highlights/comments
 
 Structured JSON/Python Report of findings
 
-How It Works
+How It Works:
+
 Upload
 
 User uploads one or more .docx files.
@@ -55,7 +56,8 @@ Missing documents
 
 Issues found
 
-Tech Stack
+Tech Stack:
+
 Frontend/UI: Streamlit / Gradio
 
 AI Model: RAG-enabled LLM (OpenAI, Gemini, Claude, Ollama, etc.)
