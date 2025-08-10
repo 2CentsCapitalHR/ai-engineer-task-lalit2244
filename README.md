@@ -5,6 +5,7 @@ This project is an AI-powered Corporate Agent designed to review, validate, and 
 The agent uses Retrieval-Augmented Generation (RAG) with official ADGM references to ensure accuracy and compliance.
 
 Key Features:
+
 Upload & Parse Documents (.docx)
 
 Document Checklist Verification based on ADGM rules
